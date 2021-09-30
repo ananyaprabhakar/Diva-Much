@@ -6,3 +6,4 @@ On opening the "project.html" file on your web browser, the fully functioning we
 This project mainly focuses on the Front-End Development, and does not include a detailed back-end.
 The "images" folder has all the images that are displayed on the website.
 The website is tested to work properly on "Google Chrome Browser".
+These images cannot be copied or used for any personal or commercial purposes without credits.
