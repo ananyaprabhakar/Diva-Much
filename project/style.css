@@ -1,0 +1,53 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.about1{
+    background-color: red;
+}
+
+.footer1{
+    display:inline;
+    list-style-type: none;
+    margin: 200px;
+    color: white;
+    text-decoration: none;
+}
+footer{
+
+    background-color: black;
+
+    color: white;
+    padding: 10px 20px;
+
+    
+
+}
+li{
+    display:inline; //To bring all tthe elements in one line.
+    margin: 100px; //To space them out evenly
+}
+li a{
+    color: white;
+    text-decoration: none; 
+}
+
+.contact{
+    text-align: right;
+}
+.about1{
+    background-color: ffe6e6;
+}
+.footer{
+    text-align: right;
+}
+.head{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: black;
+    padding: 11px;
+}
+
+h1{
+    font-family: Montserrat, sans-serif ;
+}
